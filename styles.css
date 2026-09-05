@@ -421,6 +421,8 @@ a { color: inherit; text-decoration: none; }
 
 /* ---- Reels & creative ---- */
 .reels { background: var(--paper); border-top: 1px solid var(--line); }
+.creatives { background: var(--cream-2); }
+.creatives .reel-card { background: var(--paper); }
 .reels .section-note { max-width: 60ch; }
 .reels-grid {
   display: grid;
